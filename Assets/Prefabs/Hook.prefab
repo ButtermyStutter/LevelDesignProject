@@ -225,5 +225,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hookForce: 30
-  playerDrag: 0
+  playerDrag: 3
+  playerRigid: {fileID: 0}
   player: {fileID: 0}
